@@ -62,11 +62,7 @@ The PlantShop,MERN project, made by me as a practice project where I applied all
  ![plant3](https://user-images.githubusercontent.com/102580513/214058456-ea653a8a-ccc1-420e-ae85-f4da27ff8c1e.png)
 
 *******************************************************************************
-## Demo
 
->Project demo link- 
-<a href="https://frotend-shvaniawsthi001-gmailcom.v![plant1](https://user-images.githubusercontent.com/102580513/214058186-aeb1dd7e-4dd4-40a6-ba90-8727ab8db47d.png)
-ercel.app/">click here</a>
 
 
   
